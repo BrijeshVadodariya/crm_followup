@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+# access_micra_crm_followup_micra_crm_followup,micra_crm_followup.micra_crm_followup,model_micra_crm_followup_micra_crm_followup,base.group_user,1,1,1,1
